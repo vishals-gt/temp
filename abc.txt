@@ -6,4 +6,4 @@ i
 >>>>>>> mybranch
 
 
-thia is my another file....
+thia is my another file....branch changes
