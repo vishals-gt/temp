@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 my name is ..
+=======
+NO..
+i
+>>>>>>> mybranch
 
 
 thia is my another file....
