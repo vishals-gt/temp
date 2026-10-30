@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+This is to test PR review
 my name is ..
-=======
+
 NO..
 i
->>>>>>> mybranch
+
 
 
 thia is my another file....
