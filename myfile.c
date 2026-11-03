@@ -1,3 +1,3 @@
-main(){
-  printf("This is my PR review");
+main(void){
+  printf("This is my PR review);
 }
