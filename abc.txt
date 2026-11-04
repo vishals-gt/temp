@@ -1,9 +1,1 @@
-This is to test PR review
-my name is ..
-
-NO..
-i
- Automatic PR review
-
-
-thia is my another file....
+This is a text file named abc.txt
